@@ -16,3 +16,4 @@ archive/
 
 code/test_api.py
 .env
+cron.log
